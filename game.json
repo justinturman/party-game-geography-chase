@@ -1,0 +1,10 @@
+{
+  "id": "geography-chase",
+  "name": "Geography Chase",
+  "category": "Party Games",
+  "description": "A notorious villain stole something priceless. Chase them around the globe, one clue at a time.",
+  "summary": "A villain has stolen something priceless and fled around the world. Each stop, a clue points to the next destination and four possible places appear on everyone's phone. One player has the turn and makes the final call, while everyone else votes, with the votes shown live on the TV. Pick right and the team flies to the next stop. Pick wrong and the trail goes cold. Get 10 stops right on the first try, then corner the villain in the final chase. Anyone can join or leave at any time.",
+  "thumbnail": "thumbnail.jpg",
+  "color": "#1565c0",
+  "openJoin": true
+}
